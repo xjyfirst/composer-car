@@ -1,0 +1,11 @@
+{
+    "name": "xujy/composer-car",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xjyfirst",
+            "email": "xujyfirst@gmail.com"
+        }
+    ],
+    "require": {}
+}
